@@ -1,0 +1,5 @@
+name 		marks
+nirupom 	50
+tanvir 	45
+ahad 		60
+

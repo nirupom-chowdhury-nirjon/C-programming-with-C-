@@ -1,0 +1,11 @@
+Name				Marks
+---------        ------------
+
+
+Nirupom			95
+
+Nuhash			96
+
+Hasibul			94
+
+Rakibul			95
