@@ -1,0 +1,21 @@
+Git Command:
+         git –-version
+              git status  //git repository (or any of the parent directories)
+              git init    // Initialized empty Git repository in
+              git add . // working directory to staging area  
+
+              git config –global user.name “Jolok Banarjee”
+              git config –global user.email “jolokbanrjee306@gmail.com”
+               
+              git commit -m “version 1” // staging area to git directory(repository) commit
+              git log
+
+              git config –-global user.name [enter] user name will show
+
+Now it’s time to go on github and create a new repository and go which fill you wanna pull or push !!! Add orgin !!!
+             git remote add origin SSH_Copy_paste
+             git push -u origin master
+SSH Key Generate: go to profile and click settings and go SSH and GPG Keys and add new SSH key 
+              Copy_Paste command on git bash
+              git pull origin master
+
